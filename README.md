@@ -25,7 +25,7 @@ This project was developed as part of an internship task to demonstrate skills i
 - `pricing.html` – Pricing plans in card layout
 
 ## 🌐 Live Preview
-[View Demo](https://sp-supriya.github.io/bootstrap-ui-showcase)  
+[View Demo](https://github.com/Sp-supriya/bootstrap-ui-showcase)  
 _Replace with your actual deployed link_
 
 ## 📸 Screenshots
