@@ -29,5 +29,20 @@ This project was developed as part of an internship task to demonstrate skills i
 
 
 ## 📸 Screenshots
-_You can add screenshots of your pages here if needed._
+
+### 🏠 Home Page
+![Home Page](assets/homepage.png)
+
+### 📄 About Page
+![About Page](assets/about.png)
+
+### 📬 Contact Page
+![Contact Page](assets/contact.png)
+
+### 📊 Dashboard Page
+![Dashboard](assets/dashboard.png)
+
+### 💳 Pricing Page
+![Pricing](assets/pricing.png)
+
 
