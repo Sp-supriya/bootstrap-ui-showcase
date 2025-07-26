@@ -26,10 +26,8 @@ This project was developed as part of an internship task to demonstrate skills i
 
 ## 🌐 Live Preview
 [View Demo](https://github.com/Sp-supriya/bootstrap-ui-showcase)  
-_Replace with your actual deployed link_
+
 
 ## 📸 Screenshots
 _You can add screenshots of your pages here if needed._
 
-## 📄 License
-This project is created for learning and demonstration purposes only.
